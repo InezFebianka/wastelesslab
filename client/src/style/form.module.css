@@ -1,0 +1,19 @@
+.formslab {
+  padding: 10px;
+}
+
+.formcontrol {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+.formcontrol label {
+  padding: 2.5px;
+}
+
+.buttonStyle {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}

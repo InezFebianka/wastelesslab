@@ -1,0 +1,53 @@
+.home {
+    padding: 15px;
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center;
+    align-items: center; */
+}
+.header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+    align-items: flex-end;
+}
+.mainSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section {
+    border: 3px solid red;
+    border-radius: 50px;
+    width: 70%;
+    padding-top: 0;
+}
+.headSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+.title {
+    font-size: 55px;
+}
+.desc{
+    margin-left: 5px;
+}
+.desc p {
+    margin: 0;
+    font-style: italic;
+}
+.inputSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+}
